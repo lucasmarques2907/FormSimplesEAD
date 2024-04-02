@@ -1,0 +1,28 @@
+body {
+    background-color: #252526;
+}
+
+.marginDiv {
+    margin: 25px auto;
+}
+
+.formContainer {
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 40px 2px rgba(255, 255, 255, 0.40);
+    font-weight: bold;
+}
+
+.formCadastro input {
+    border-color: #252526 !important;
+}
+
+.btn {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.form-text {
+    color: rgb(216, 0, 0);
+}
